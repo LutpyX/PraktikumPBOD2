@@ -1,0 +1,3 @@
+Polimorfisme adalah konsep dimana satu entitas dapat memiliki banyak bentuk tergantung konteks penggunaannya. 
+Dalam Java, hal ini dapat terjadi melalui konversi tipe data, penggunaan method dengan nama yang sama namun parameter berbeda (overloading), 
+serta penggunaan inheritance dimana satu tipe induk dapat merepresentasikan berbagai objek turunan yang berbeda perilakunya.
