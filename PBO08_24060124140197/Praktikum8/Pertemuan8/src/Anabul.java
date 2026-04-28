@@ -3,7 +3,7 @@
     Tanggal   : Selasa, 28 April 2026
 */
 
-// Superclass
+
 class Anabul {
     protected String nama;
 
